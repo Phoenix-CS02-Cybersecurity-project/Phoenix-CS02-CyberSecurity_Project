@@ -27,7 +27,8 @@ This script captures keystrokes by executing the python script and sends the ema
 1) Install Python (latest Version) 
 2) Install Python Libraries (Required)
 3) Enter the parameter mentioned in the scripts
-4) Execute Zlogger Script using the command     -> python3 zlogger.py
+4) Run the keylogger.py script first using the comamnd  -> python3 keylogger.py
+5) Execute Zlogger Script using the command     -> python3 zlogger.py
 
 
 
