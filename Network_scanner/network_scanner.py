@@ -30,5 +30,5 @@ def print_result(results_list):
 
 
 options = get_arguments()
-scan_result = scan(options.target)
+scan_result = scan("192.168.48.1/24")
 print_result(scan_result)
