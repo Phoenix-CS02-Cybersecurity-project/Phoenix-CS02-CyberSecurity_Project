@@ -5,12 +5,12 @@ Usage :
 
 Commands
 
-python macchanger.py -i "interface_name" -m "new_mac address"
+python macchangerpy.py --i "interface_name" -m "new_mac address"
 
 or
 
-python macchanger.py -interface "interface_name" --new_mac "new_mac address"
+python macchangerpy.py --interface "interface_name" --new_mac "new_mac address"
 
 example :
 
-python macchanger.py -interface eth0 --new_mac 00:11:22:33:44:55
+python macchangerpy.py --interface eth0 -m 00:11:22:33:44:55
